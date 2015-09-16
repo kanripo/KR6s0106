@@ -1,0 +1,6 @@
+001-1058c00	T 001-1058c	buddhist/T-taisho/T55/10/T55-1058.png
+001-1059a00	T 001-1059a	buddhist/T-taisho/T55/10/T55-1059.png
+001-1059b00	T 001-1059b	buddhist/T-taisho/T55/10/T55-1059.png
+001-1059c00	T 001-1059c	buddhist/T-taisho/T55/10/T55-1059.png
+001-1060a00	T 001-1060a	buddhist/T-taisho/T55/10/T55-1060.png
+001-1060b00	T 001-1060b	buddhist/T-taisho/T55/10/T55-1060.png
