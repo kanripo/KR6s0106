@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:41.019675
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:42
 #+TITLE: 傳教大師將來越州錄
 #+PROPERTY: CBETA_ID T55n2160
 #+PROPERTY: ID KR6s0106
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2160
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0106_T_001-1058b> 
 #+PROPERTY: JUAN 1
 ¶
-No.2160¶
-
- 傳教大師將來越州錄¶
+No. 2160¶
+傳教大師將來越州錄¶
 ¶
 
 日本國求法僧最澄目錄。¶
@@ -158,10 +157,7 @@ No.2160¶
 錄事正六位上行式部省少錄兼伊¶勢大目勳六等　　山田造　大庭¶
 錄事正六位上行太政官左少史兼¶常陸少目　　　　上毛野公　　穎人¶¶
 
-:PROPERTIES:
-:head: 山家將來目錄序
-:END:
-¶
+* 山家將來目錄序¶
 
 昔者吾三聖之入唐求法也。皆有將來錄。先¶
 是刊行於世矣。今復殊壽此摹錄者。蓋使其¶
